@@ -51,7 +51,7 @@ A obra original foi traduzida do inglês para o português brasileiro.
 
 [github-sponsors]: https://github.com/sponsors/docsdevbr
 
-[license]: LICENSE
+[license]: https://tdg.docbook.org/tdg/5.2/gfdl
 
 [page]: https://pt.docs.dev.br/p/docbook/
 
