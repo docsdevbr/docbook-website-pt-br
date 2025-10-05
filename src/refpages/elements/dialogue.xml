@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<refentry xmlns="http://docbook.org/ns/docbook"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          xmlns:xi="http://www.w3.org/2001/XInclude"
+          version="5.0" revision="1.0" arch="publishers">
+<refmeta>
+  <refentrytitle><?tdg-refentrytitle?></refentrytitle>
+  <refmiscinfo role="element">dialogue</refmiscinfo>
+  <refmiscinfo role="pattern">db.dialogue</refmiscinfo>
+  <refmiscinfo role="class">publishers</refmiscinfo>
+</refmeta>
+
+<refnamediv>
+  <refname><?tdg-refname?></refname>
+  <refpurpose><?tdg-refpurpose?></refpurpose>
+</refnamediv>
+
+<?tdg-refsynopsisdiv?>
+
+<refsection condition="ref.description">
+<title>Description</title>
+
+<para>A <tag>dialogue</tag> is a container for speeches and other
+forms of dialogue often involving <tag>linegroup</tag>s or <tag>line</tag>s.</para>
+
+<refsection>
+<title>Processing expectations</title>
+<para>Formatted as a displayed block.</para>
+</refsection>
+
+<?tdg-attributes?>
+<?tdg-parents?>
+<?tdg-children?>
+
+</refsection>
+
+<?tdg-seealso?>
+
+<!-- FIXME: add examples -->
+
+</refentry>

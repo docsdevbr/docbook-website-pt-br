@@ -1,0 +1,12 @@
+<article xmlns='http://docbook.org/ns/docbook'>
+<title>Example funcsynopsis</title>
+
+<funcsynopsis>
+<?db funcsynopsis-style='kr'?>
+<funcprototype>
+<funcdef>int <function>rand</function></funcdef>
+  <void/>
+</funcprototype>
+</funcsynopsis>
+
+</article>
